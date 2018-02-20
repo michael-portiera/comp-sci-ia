@@ -1,10 +1,8 @@
 package model.table;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import model.math.Term;
 import util.Html;
-import util.HtmlEncodeable;
 
 public class DataSet extends Set
 {   

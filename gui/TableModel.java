@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package gui;
 
 import java.util.LinkedList;
@@ -12,10 +7,6 @@ import model.Project;
 import model.math.Term;
 import model.table.DataSet;
 
-/**
- *
- * @author mvpor
- */
 public class TableModel extends AbstractTableModel 
 {
     Project project;

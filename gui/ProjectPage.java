@@ -17,14 +17,9 @@ import model.math.Term;
 import model.table.Constant;
 import model.table.DataSet;
 import model.table.VariableSet;
-import util.CSVExporter;
 import util.HTMLExporter;
 import util.Html;
 
-/**
- *
- * @author Michael Portiera
- */
 public class ProjectPage extends javax.swing.JFrame {
 
     /**

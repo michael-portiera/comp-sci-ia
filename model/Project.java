@@ -9,8 +9,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import model.math.Element;
 import model.math.Term;
 import model.table.Constant;
